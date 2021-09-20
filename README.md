@@ -9,7 +9,9 @@ check the excel : https://docs.google.com/spreadsheets/d/16qpgbcFRszbxqds-wjhLdZ
 
 ## Scraper
 
-Create a script which accept a input (amazon url). It will extract the data of amazon product
+Create a script which accept a input (for example: amazon url). It will extract the data from website
+
+for amazon:
 - images
 - price
 - name
